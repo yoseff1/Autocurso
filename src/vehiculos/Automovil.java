@@ -24,9 +24,11 @@ public class Automovil {
 	}
 	public void frenar() {
 		// operacion para frenar
+		///guardar
 	}
 	void encender() {
 		//operacion para acelerar
+		//hice cambios en la rama freno
 	}
 	void apagar() {
 		
