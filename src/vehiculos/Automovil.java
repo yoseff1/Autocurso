@@ -23,10 +23,10 @@ public class Automovil {
 		return velocidadActual;
 	}
 	public void frenar() {
-		
+		// operacion para frenar
 	}
 	void encender() {
-		
+		//operacion para acelerar
 	}
 	void apagar() {
 		
